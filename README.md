@@ -5,7 +5,7 @@ http请求的封装类，目前使用的HttpClient的实现，支持对不同的
 
 参考代码请查看 src/test下的代码。
 
-如果使用过程中有疑问或者发现bug，可以加[QQ群](<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=zv5wK5NqfxljEfVAAu9h3Cq_kRgveQeA&jump_from=webapi" class="icon brands fa-qq"></a>)
+如果使用过程中有疑问或者发现bug，可以加[QQ群](<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=zv5wK5NqfxljEfVAAu9h3Cq_kRgveQeA&jump_from=webapi" class="icon brands fa-qq"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="HTTP客户端编程交流" title="HTTP客户端编程交流"></a>)
 
 目前版本 0.2.4 release，后续会继续实现其他功能
 
